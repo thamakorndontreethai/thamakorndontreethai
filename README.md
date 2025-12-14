@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 ----------------------------------------------------------------
 
-- Faculty of Science Department of Digital science and technology.  
-- I'm a third-year undergraduate student.  
+- Faculty of Science, Department of Digital science and technology.  
+- I'm a third-year undergraduate student at Kasetsart University, Sriracha Campus. 
 - I'm currently learning Amazon Web Services, MongoDB, C#.
+- I'm currently seeking an internship opportunity as a Full-stack Developer.
 
 ### Skills
 
