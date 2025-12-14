@@ -7,7 +7,6 @@ Full-stack Developer
 Faculty of Science Department of Digital science and technology.  
 
 I'm a third-year undergraduate student.  
-
 I'm currently learning Amazon Web Services, MongoDB, C#.
 
 ### Skills
