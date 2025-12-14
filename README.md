@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thamakorn Dontreethai
 ==============================================================================================================================================
 
-Faculty of Science Department of Digital science and technology.
+Full-stack Developer
 ----------------------------------------------------------------
 
+Faculty of Science Department of Digital science and technology.
 I'm a third-year undergraduate student.
+I'm currently learning Amazon Web Services, MongoDB, C#
 
 ### Skills
 
